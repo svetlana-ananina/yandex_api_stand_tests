@@ -1,0 +1,6 @@
+URL_SERVICE = "https://ce4f91a2-3ed0-427a-b7a7-c1e6d98b1ec1.serverhub.praktikum-services.ru" # "скопируй сюда URL, который у тебя сгенерировался без слеша в конце"
+DOC_PATH = "/docs/"
+LOG_MAIN_PATH = "/api/logs/main/"
+USERS_TABLE_PATH = "/api/db/resources/user_model.csv"
+CREATE_USER_PATH = "/api/v1/users/"
+PRODUCTS_KITS_PATH = "/api/v1/products/kits/"
